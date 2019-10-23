@@ -14,7 +14,7 @@ tags: acknowledgments
 ## Sponsors
 
 * ![Checkmarx][checkmarx]
-* ![Salt][salt]
+* ![Salt Security][salt]
 
 ## Main Maintainer
 
