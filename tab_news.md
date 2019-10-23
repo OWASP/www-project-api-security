@@ -15,13 +15,13 @@ tags: news
   The RC of API Security Top-10 List was published during [OWASP Global AppSec
   DC][dc] ([slide deck][dc-slides])
 * **May 30, 2019**
-  
+
   The API Security Project was Kicked-Off during [OWASP Global AppSec Tel
   Aviv][telaviv] ([slide deck][telaviv-slides])
 
 [ams]: https://ams.globalappsec.org/
-[ams-slides]: https://www.owasp.org/index.php/File:API_Security_Top_10_RC_-_Global_AppSec_AMS.pdf
+[ams-slides]: /assets/presentations/api-security-top10-rc-global-appsec-ams.pdf
 [dc]: https://dc.globalappsec.org/
-[dc-slides]: https://www.owasp.org/index.php/File:API_Security_Top_10_RC.pdf
+[dc-slides]: /assets/presentations/api-security-top10.pdf
 [telaviv]: https://telaviv.appsecglobal.org/
-[telaviv-slides]: https://www.owasp.org/index.php/File:OWASP_APIs_Security_Project_Kick_Off.pdf
+[telaviv-slides]: /assets/presentation/owasp-api-security-project-kick-off.pdf
