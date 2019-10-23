@@ -1,4 +1,8 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+
+* [Erez Yalon](https://www.owasp.org/index.php/User:ErezYalon)
+* [Inon Shkedy](https://www.owasp.org/index.php/User:Inon)
+
+#### Main Collaborator
+
+* [Paulo Silva](https://www.owasp.org/index.php/User:PauloASilva)
