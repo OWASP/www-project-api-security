@@ -46,8 +46,6 @@ News section on the right. Here is a sneak peek:
   Looking forward to generic implementations, developers tend to expose all
   object properties without considering their individual sensitivity, relying on
   clients to perform the data filtering before displaying it to the user.
-  Without controlling the client's state, servers receive more-and-more filters
-  which can be abused to gain access to sensitive data.
 * **API4:2019 Lack of Resources & Rate Limiting**
 
   Quite often, APIs do not impose any restrictions on the size or number of
