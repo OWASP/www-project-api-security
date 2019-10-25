@@ -1,6 +1,6 @@
 ### API Security Information
 
-[![Incubator Project][inc-proj-logo]][inc-proj]
+[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
 ![Documentation Project][doc-proj-logo]
 
 ![Builders][builders-logo]
