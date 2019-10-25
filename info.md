@@ -19,7 +19,7 @@
 
 * [GitHub][github]
 
-[inc-proj]: #incubator-project
+[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
 [inc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_incubator.svg?sanitize=true
 [builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
 [breakers-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_breakers.svg?sanitize=true
