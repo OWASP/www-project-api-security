@@ -3,11 +3,11 @@
 [![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
 ![Documentation Project][doc-proj-logo]
 
-![Builders][builders-logo]
-![Breakers][breakers-logo]
-![Defenders][defenders-logo]
+[![Builders][builders-logo]][builders]
+[![Breakers][breakers-logo]][breakers]
+[![Defenders][defenders-logo]][defenders]
 
-[![CC BY-SA 3.0][license-logo]][license]
+[![CC BY-SA 3.0][license-logo]{:width="175px"}][license]
 
 ### Downloads or Social Links
 
@@ -21,13 +21,16 @@
 
 [inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
 [inc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_incubator.svg?sanitize=true
+[builders]: https://www.owasp.org/index.php/Builders
 [builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
+[breakers]: https://www.owasp.org/index.php/Breakers
 [breakers-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_breakers.svg?sanitize=true
+[defenders]: https://www.owasp.org/index.php/Defenders
 [defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
 [license]: http://creativecommons.org/licenses/by-sa/3.0/
-[license-logo]: https://www.owasp.org/images/8/84/Cc-button-y-sa-small.png
+[license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
 [rc-pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
-[rc-ppt]: https://www.owasp.org/images/5/59/API_Security_Top_10_RC.pdf
+[rc-ppt]: /assets/presentations/api-security-top10-rc-global-appsec-ams.pdf
 [github]: https://github.com/OWASP/API-Security
 [ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
