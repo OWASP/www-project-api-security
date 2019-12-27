@@ -22,11 +22,9 @@ API Security focuses on strategies and solutions to understand and mitigate the
 unique vulnerabilities and security risks of Application Programming Interfaces
 (APIs).
 
-## API Security Top 10 Release Candidate is Here!
+## API Security Top 10 2019
 
-The RC version is finally ready and was presented during Global AppSec DC 2019
-and Global AppSec Amsterdam 2019. Links to the presentations can be found in the
-News section on the right. Here is a sneak peek:
+Here is a sneak peek of the 2019 version:
 
 * **API1:2019 Broken Object Level Authorization**
 

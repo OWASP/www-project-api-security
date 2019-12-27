@@ -6,6 +6,9 @@ order: 1
 tags: news
 ---
 
+* **Dec 26, 2019**
+
+  OWASP API Security Top 10 2019 stable version release.
 * **Sep 30, 2019**
 
   The RC of API Security Top-10 List was published during [OWASP Global AppSec
