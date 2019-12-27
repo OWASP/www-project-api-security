@@ -31,10 +31,10 @@ News section on the right. Here is a sneak peek:
 * **API1:2019 Broken Object Level Authorization**
 
   APIs tend to expose endpoints that handle object identifiers, creating a wide
-  attack surface Level Access Control issue. Object-level authorization checks
-  should be considered in every function that accesses a data source using input
-  from the user.
-* **API2:2019 Broken Authentication**
+  attack surface Level Access Control issue. Object level authorization checks
+  should be considered in every function that accesses a data source using an
+  input from the user.
+* **API2:2019 Broken User Authentication**
 
   Authentication mechanisms are often implemented incorrectly, allowing
   attackers to compromise authentication tokens or to exploit implementation
@@ -67,14 +67,14 @@ News section on the right. Here is a sneak peek:
   allows attackers to modify object properties they are not supposed to.
 * **API7:2019 Security Misconfiguration**
 
-  Security misconfiguration is commonly a result of insecure default
+  Security misconfiguration is commonly a result of unsecure default
   configurations, incomplete or ad-hoc configurations, open cloud storage,
   misconfigured HTTP headers, unnecessary HTTP methods, permissive Cross-Origin
   resource sharing (CORS), and verbose error messages containing sensitive
   information.
 * **API8:2019 Injection**
 
-  Injection flaws, such as SQL, NoSQL, Command Injection, etc. occur when
+  Injection flaws, such as SQL, NoSQL, Command Injection, etc., occur when
   untrusted data is sent to an interpreter as part of a command or query. The
   attacker's malicious data can trick the interpreter into executing unintended
   commands or accessing data without proper authorization.

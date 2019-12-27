@@ -11,7 +11,7 @@
 
 ### Downloads or Social Links
 
-* [API Security Top 10 2019 RC (PDF)][rc-pdf]
+* [API Security Top 10 2019 (PDF)][pdf]
 * [API Security Top 10 2019 RC Presentation][rc-ppt]
 * [Mailing List][ml]
 
@@ -30,7 +30,7 @@
 [license]: http://creativecommons.org/licenses/by-sa/3.0/
 [license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
-[rc-pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
+[pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
 [rc-ppt]: /assets/presentations/api-security-top10-rc-global-appsec-ams.pdf
 [github]: https://github.com/OWASP/API-Security
 [ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project

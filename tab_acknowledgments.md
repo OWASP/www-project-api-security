@@ -22,8 +22,11 @@ tags: acknowledgments
 
 ## Contributors
 
-* David Sopas 
-* Chris Westphal
+007divyachawla, anotherik, bkimminich, caseysoftware, Chris Westphal, dsopas,
+DSotnikov, emilva, ErezYalon, flascelles, IgorSasovets, Inonshk,
+JonnySchnittger, jmanico, jmdx, kozmic, LauraRosePorter, Matthieu Estrade,
+nathanawmk, PauloASilva, pentagramz, philippederyck, pleothaud, Sagar Popat,
+Stephen Gates, thomaskonrad, xycloops123
 
 [erez-yalon]: https://www.owasp.org/index.php/User:ErezYalon
 [inon-shkedy]: https://www.owasp.org/index.php/User:Inon
