@@ -1,8 +1,8 @@
 ### Leaders
 
-* [Erez Yalon](https://www.owasp.org/index.php/User:ErezYalon)
-* [Inon Shkedy](https://www.owasp.org/index.php/User:Inon)
+* [Erez Yalon](mailto:erez.yalon@owasp.org)
+* [Inon Shkedy](mailto:inon.shkedy@owasp.org)
 
 #### Main Collaborator
 
-* [Paulo Silva](https://www.owasp.org/index.php/User:PauloASilva)
+* [Paulo Silva](mailto:paulo.silva@owasp.org)
