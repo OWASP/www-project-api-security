@@ -6,7 +6,7 @@ order: 1
 tags: translations
 ---
 
-# OWASP API Security Top 10 2019
+## OWASP API Security Top 10 2019
 
 * Portuguese (Brazil): [GitHub][1], [PDF][2], [ODT][3]
 
