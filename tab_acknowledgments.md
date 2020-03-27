@@ -13,8 +13,8 @@ tags: acknowledgments
 
 ## Sponsors
 
-* ![Checkmarx][checkmarx]
-* ![Salt Security][salt]
+![Checkmarx][checkmarx]{:height="96px"}
+![Salt Security][salt]{:height="96px"}
 
 ## Main Maintainer
 
@@ -32,5 +32,5 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [erez-yalon]: https://www.owasp.org/index.php/User:ErezYalon
 [inon-shkedy]: https://www.owasp.org/index.php/User:Inon
 [paulo-silva]: https://www.owasp.org/index.php/User:PauloASilva
-[checkmarx]: /assets/images/checkmarx-logo.png
-[salt]: /assets/images/salt-logo.png
+[checkmarx]: assets/images/checkmarx-logo.png
+[salt]: assets/images/salt-logo.png
