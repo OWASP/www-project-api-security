@@ -6,6 +6,9 @@ order: 1
 tags: news
 ---
 
+* **Mar 27, 2020**
+
+  A translation for Brazilian Portuguese released.
 * **Dec 26, 2019**
 
   OWASP API Security Top 10 2019 stable version release.
