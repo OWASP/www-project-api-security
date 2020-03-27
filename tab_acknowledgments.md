@@ -27,7 +27,7 @@ Chris Westphal, dsopas, DSotnikov, emilva, ErezYalon, flascelles, Guillaume
 Benats, IgorSasovets, Inonshk, JonnySchnittger, jmanico, jmdx, Keith Casey,
 kozmic, LauraRosePorter, Matthieu Estrade, nathanawmk, PauloASilva, pentagramz,
 philippederyck, pleothaud, r00ter, Raj kumar, Sagar Popat, Stephen Gates,
-thomaskonrad, xycloops123
+thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 
 [erez-yalon]: https://www.owasp.org/index.php/User:ErezYalon
 [inon-shkedy]: https://www.owasp.org/index.php/User:Inon
