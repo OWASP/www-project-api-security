@@ -1,6 +1,6 @@
 ### API Security Information
 
-[![Incubator Project][inc-proj-logo]{:height="66px"}][inc-proj]
+[![Lab Project][lab-proj-logo]{:height="66px"}][inc-proj]
 ![Documentation Project][doc-proj-logo]
 
 [![Builders][builders-logo]][builders]
@@ -20,7 +20,7 @@
 * [GitHub][github]
 
 [inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
-[inc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_incubator.svg?sanitize=true
+[lab-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_labs.svg?sanitize=true
 [builders]: https://www.owasp.org/index.php/Builders
 [builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
 [breakers]: https://www.owasp.org/index.php/Breakers
