@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP API Security Project
 tags: api security top10 translations acknowledgments join roadmap news
-level: 2
+level: 3
 type: documentation
 
 ---
