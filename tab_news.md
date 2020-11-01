@@ -6,9 +6,17 @@ order: 1
 tags: news
 ---
 
+* **Oct 30, 2020**
+
+  [GraphQL Cheat Sheet][graphql-cs] release.
+  A truly community effort whose [log and contributors list are available at
+  GitHub][graphql-cs-pr].
+* **Apr 4, 2020**
+
+  [OWASP API Security Top 10 2019 pt-PT translation][top10-pt-PT] release.
 * **Mar 27, 2020**
 
-  A translation for Brazilian Portuguese released.
+  [OWASP API Security Top 10 2019 pt-BR translation][top10-pt-BR] release.
 * **Dec 26, 2019**
 
   OWASP API Security Top 10 2019 stable version release.
@@ -31,3 +39,7 @@ tags: news
 [dc-slides]: /assets/presentations/api-security-top10.pdf
 [telaviv]: https://telaviv.appsecglobal.org/
 [telaviv-slides]: /assets/presentation/owasp-api-security-project-kick-off.pdf
+[top10-pt-BR]: https://github.com/OWASP/API-Security/raw/master/2019/pt-br/dist/owasp-api-security-top-10-pt-br.pdf
+[top10-pt-PT]: https://github.com/OWASP/API-Security/raw/master/2019/pt-pt/dist/owasp-api-security-top-10.pdf
+[graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
+[graphql-cs-pr]: https://github.com/OWASP/CheatSheetSeries/pull/434

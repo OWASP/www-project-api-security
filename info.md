@@ -12,6 +12,7 @@
 ### Downloads or Social Links
 
 * [API Security Top 10 2019 (PDF)][pdf]
+* [GraphQL Cheat Sheet][graphql-cs]
 * [Mailing List][ml]
 
 ### Code Repository
@@ -32,3 +33,4 @@
 [pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
 [github]: https://github.com/OWASP/API-Security
 [ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
+[graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
