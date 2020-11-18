@@ -37,7 +37,7 @@ Here is a sneak peek of the 2019 version:
   Authentication mechanisms are often implemented incorrectly, allowing
   attackers to compromise authentication tokens or to exploit implementation
   flaws to assume other user's identities temporarily or permanently.
-  Compromising system's ability to identify the client/user, compromises API
+  Compromising a system's ability to identify the client/user, compromises API
   security overall.
 * **API3:2019 Excessive Data Exposure**
 
@@ -59,7 +59,7 @@ Here is a sneak peek of the 2019 version:
 * **API6:2019 Mass Assignment**
 
   Binding client provided data (e.g., JSON) to data models, without proper
-  properties filtering based on an allowlist, usually lead to Mass Assignment.
+  properties filtering based on an allowlist, usually leads to Mass Assignment.
   Either guessing objects properties, exploring other API endpoints, reading the
   documentation, or providing additional object properties in request payloads,
   allows attackers to modify object properties they are not supposed to.
