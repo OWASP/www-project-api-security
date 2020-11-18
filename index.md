@@ -59,7 +59,7 @@ Here is a sneak peek of the 2019 version:
 * **API6:2019 Mass Assignment**
 
   Binding client provided data (e.g., JSON) to data models, without proper
-  properties filtering based on a whitelist, usually lead to Mass Assignment.
+  properties filtering based on an allowlist, usually lead to Mass Assignment.
   Either guessing objects properties, exploring other API endpoints, reading the
   documentation, or providing additional object properties in request payloads,
   allows attackers to modify object properties they are not supposed to.
