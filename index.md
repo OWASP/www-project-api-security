@@ -68,7 +68,7 @@ Here is a sneak peek of the 2019 version:
   Security misconfiguration is commonly a result of unsecure default
   configurations, incomplete or ad-hoc configurations, open cloud storage,
   misconfigured HTTP headers, unnecessary HTTP methods, permissive Cross-Origin
-  resource sharing (CORS), and verbose error messages containing sensitive
+  resource sharing (CORS) and verbose error messages containing sensitive
   information.
 * **API8:2019 Injection**
 
