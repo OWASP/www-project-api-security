@@ -30,7 +30,7 @@
 [defenders]: https://www.owasp.org/index.php/Defenders
 [defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
 [license]: http://creativecommons.org/licenses/by-sa/3.0/
-[license-logo]: https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg
+[license-logo]: assets/images/by-sa.svg
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
 [pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
 [github]: https://github.com/OWASP/API-Security
