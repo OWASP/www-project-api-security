@@ -34,11 +34,11 @@ tags: news
   Aviv][telaviv] ([slide deck][telaviv-slides])
 
 [ams]: https://ams.globalappsec.org/
-[ams-slides]: /assets/presentations/api-security-top10-rc-global-appsec-ams.pdf
+[ams-slides]: https://github.com/OWASP/www-project-api-security/raw/master/assets/presentations/api-security-top10-rc-global-appsec-ams.pdf
 [dc]: https://dc.globalappsec.org/
-[dc-slides]: /assets/presentations/api-security-top10.pdf
+[dc-slides]: https://github.com/OWASP/www-project-api-security/raw/master/assets/presentations/api-security-top10.pdf
 [telaviv]: https://telaviv.appsecglobal.org/
-[telaviv-slides]: /assets/presentation/owasp-api-security-project-kick-off.pdf
+[telaviv-slides]: https://github.com/OWASP/www-project-api-security/raw/master/assets/presentations/owasp-api-security-project-kick-off.pdf
 [top10-pt-BR]: https://github.com/OWASP/API-Security/raw/master/2019/pt-br/dist/owasp-api-security-top-10-pt-br.pdf
 [top10-pt-PT]: https://github.com/OWASP/API-Security/raw/master/2019/pt-pt/dist/owasp-api-security-top-10.pdf
 [graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
