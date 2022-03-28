@@ -1,5 +1,3 @@
-[![OWASP 20th Anniversary][owasp-20th-logo]][owasp-20th-anniversary]
-
 ### API Security Information
 
 [![Lab Project][lab-proj-logo]{:height="66px"}][inc-proj]
@@ -36,5 +34,4 @@
 [github]: https://github.com/OWASP/API-Security
 [ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
 [graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-[owasp-20th-logo]: assets/images/owasp-20th-anniversary.png
-[owasp-20th-anniversary]: https://20thanniversary.owasp.org/
+
