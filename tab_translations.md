@@ -15,6 +15,10 @@ tags: translations
 * French: [GitHub][13], [PDF][14], [ODT][15]
 
   [Fred][datakime], [Laurent Legaz]
+* Persian: [GiHub][16], [PDF][17], [ODT][18]
+
+  [Alireza Mostame], [Mohammad Reza Ismaeli Taba], [Amirmahdi Nowbakht],
+  [RNPG](https://www.linkedin.com/company/raspina-net-pars/){:rel="nofollow"}
 * Portuguese (Brazil): [GitHub][1], [PDF][2], [ODT][3]
 
   [Raphael Hagi][raphael-hagi], [Eduardo Bellis][eduardo-bellis],
@@ -41,6 +45,9 @@ tags: translations
 [13]: https://github.com/OWASP/API-Security/tree/master/2019/fr/src
 [14]: https://github.com/OWASP/API-Security/raw/master/2019/fr/dist/owasp-api-security-top-10.pdf
 [15]: https://github.com/OWASP/API-Security/raw/master/2019/fr/dist/owasp-api-security-top-10.odt
+[16]: https://github.com/OWASP/API-Security/tree/master/2019/fa/src
+[17]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.pdf
+[18]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.odt
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
 [bruno-barbosa]: https://www.linkedin.com/in/bbarbosa85/
@@ -56,3 +63,6 @@ tags: translations
 [act1on3]: https://twitter.com/act1on3
 [datakime]: https://github.com/datakime
 [Laurent Legaz]: https://www.linkedin.com/in/laurent-legaz-aa580a82/
+[Alireza Mostame]: https://www.linkedin.com/in/alireza-mostame-29970b242
+[Mohammad Reza Ismaeli Taba]: https://www.linkedin.com/in/rezataba
+[Amirmahdi Nowbakht]: https://www.linkedin.com/in/amirmahdi-nowbakht-3b8865200
