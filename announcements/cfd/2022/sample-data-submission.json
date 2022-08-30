@@ -1,0 +1,58 @@
+{
+    "contributions":{
+       "appData" :
+          {
+             "appsSubmitted":100
+          },      
+       "cwe":[
+          {
+             "id":20,
+             "occurances":53,
+             "timePeriod":2019,
+             "language":".NET",
+             "region":"North America",
+             "industry":"Retail",
+             "retest":"F",
+             "testingType":"TAH",
+             "apiProtocol": "REST"
+          },
+          {
+             "id":20,
+             "occurances":10,
+             "timePeriod":2019,
+             "language":".NET",
+             "region":"North America",
+             "industry":"Technology",
+             "retest":"F",
+             "testingType":"TAH",
+             "apiProtocol": "GraphQL"
+          },
+          {
+             "id":20,
+             "occurances":30,
+             "timePeriod":2019,
+             "language":"PHP",
+             "region":"North America",
+             "industry":"Technology",
+             "retest":"F",
+             "testingType":"TAH",
+             "apiProtocol": "gRPC"
+          },
+          {
+             "id":425,
+             "occurances":5,
+             "timePeriod":2019,
+             "language":".NET",
+             "region":"North America",
+             "industry":"Retail",
+             "retest":"F",
+             "testingType":"TAH",
+             "apiProtocol": "SOAP"
+          }
+       ],
+       "contributor":{
+          "name":"First Last",
+          "email":"name@owasp.org"
+       }
+    }
+ }

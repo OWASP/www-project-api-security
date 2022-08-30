@@ -1,0 +1,5 @@
+"NumberofAppsTested","CWE","NumberofAppsPer","TimePeriod","ContributorName","ContributorContactEmail","TypeofTesting","APIProtocol","PrimaryLanguage","Region","Industry","Retest"
+100,20,53,2019,"Name","Email","TAH","REST","Node.js","North America","Retail","F"
+100,20,10,2019,"Name","Email","TAH","GraphQL",".NET","North America","Technology","F"
+100,20,30,2019,"Name","Email","TAH","gRPC","Go","North America","Technology","F"
+100,425,5,2019,"Name","Email","TAH","SOAP","PHP","North America","Retail","F"
