@@ -8,6 +8,11 @@ type: documentation
 
 ---
 
+<div class="alert">
+  <p style="text-align:center">OWASP API Top 10 2022 call for data is open!
+  Check out <a href="announcements/cfd/2022/">how to contribute</a>.</p>
+</div>
+
 ## What is API Security?
 
 A foundational element of innovation in today’s app-driven world is the API.
