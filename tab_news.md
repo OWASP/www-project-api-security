@@ -8,7 +8,7 @@ tags: news
 
 * **Aug 30, 2022**
 
-  [OWASP API Security Top 10 2022 call for data](announcements/cfd/2022/index.md)
+  [OWASP API Security Top 10 2022 call for data](announcements/cfd/2022/)
   is open.
 * **Oct 30, 2020**
 
