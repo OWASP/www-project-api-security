@@ -11,16 +11,21 @@ tags: acknowledgments
 * [Erez Yalon][erez-yalon]
 * [Inon Shkedy][inon-shkedy]
 
-## Sponsors
+## Leaders
 
-![Checkmarx][checkmarx]{:height="96px"}
-![Salt Security][salt]{:height="96px"}
-
-## Main Maintainer
-
+* [Erez Yalon][erez-yalon]
+* [Inon Shkedy][inon-shkedy]
 * [Paulo Silva][paulo-silva]
 
-## Contributors
+## 2023 Sponsors
+
+![Cequence Security][cequence]{:height="96px"}
+<!-- ![Checkmarx][checkmarx]{:height="96px"} -->
+<!-- ![Salt Security][salt]{:height="96px"} -->
+
+## 2023 Contributors
+
+## 2019 Contributors
 
 007divyachawla, Abid Khan, Adam Fisher, anotherik, bkimminich, caseysoftware,
 Chris Westphal, dsopas, DSotnikov, emilva, ErezYalon, flascelles, Guillaume
@@ -34,3 +39,4 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [paulo-silva]: https://www.owasp.org/index.php/User:PauloASilva
 [checkmarx]: assets/images/checkmarx-logo.png
 [salt]: assets/images/salt-logo.png
+[cequence]: assets/images/CequenceSecurity-Logo.png
