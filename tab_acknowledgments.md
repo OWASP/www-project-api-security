@@ -25,6 +25,10 @@ tags: acknowledgments
 
 ## 2023 Contributors
 
+Alex Marks-Bluth, Alissa Knight, Arik Atar, Corey Ball, Dan Gordon,
+Dor Tumarkin, Isabelle Mauny, Ivan Novikov, Juan Pablo, Roey Eliyahu,
+Roshan Piyush, Yaniv Balmas, Zavodchik Maxim
+
 ## 2019 Contributors
 
 007divyachawla, Abid Khan, Adam Fisher, anotherik, bkimminich, caseysoftware,
