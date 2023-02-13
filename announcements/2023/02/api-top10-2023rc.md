@@ -32,7 +32,7 @@ in the community, [join the OWASP API Security Project mailing list][2].
 Let's work together to make API security more accessible and effective for
 everyone!
 
-Best regards,
+Best regards,<br/>
 The OWASP API Security Project Team
 
 [1]: https://github.com/OWASP/API-Security/tree/master/2023/en/src

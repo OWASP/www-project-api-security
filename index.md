@@ -8,6 +8,13 @@ type: documentation
 
 ---
 
+<div class="alert">
+  <p style="text-align:center">
+    OWASP API Security Top 10 2023 RC is now available! Check out 
+    <a href="announcements/2023/02/api-top10-2023rc.html">how to contribute</a>.
+  </p>
+</div>
+
 ## What is API Security?
 
 A foundational element of innovation in today’s app-driven world is the API.
