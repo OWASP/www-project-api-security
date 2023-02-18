@@ -62,7 +62,7 @@ tags: translations
 [Eugene Rojavski]: https://twitter.com/eugenerojavski
 [act1on3]: https://twitter.com/act1on3
 [datakime]: https://github.com/datakime
-[Laurent Legaz]: https://www.linkedin.com/in/laurent-legaz-aa580a82/
+[Laurent Legaz]: https://github.com/llegaz
 [Alireza Mostame]: https://www.linkedin.com/in/alireza-mostame-29970b242
 [Mohammad Reza Ismaeli Taba]: https://www.linkedin.com/in/rezataba
 [Amirmahdi Nowbakht]: https://www.linkedin.com/in/amirmahdi-nowbakht-3b8865200
