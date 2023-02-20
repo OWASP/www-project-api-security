@@ -6,6 +6,10 @@ order: 1
 tags: news
 ---
 
+* **Feb 14, 2023**
+
+  [OWASP API Security Top 10 2023 Release Candidate][2023rc-announcement] is
+  now available.
 * **Aug 30, 2022**
 
   [OWASP API Security Top 10 2022 call for data](announcements/cfd/2022/)
@@ -47,3 +51,4 @@ tags: news
 [top10-pt-PT]: https://github.com/OWASP/API-Security/raw/master/2019/pt-pt/dist/owasp-api-security-top-10.pdf
 [graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 [graphql-cs-pr]: https://github.com/OWASP/CheatSheetSeries/pull/434
+[2023rc-announcement]: announcements/2023/02/api-top10-2023rc
