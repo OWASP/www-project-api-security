@@ -20,8 +20,7 @@ tags: acknowledgments
 ## 2023 Sponsors
 
 ![Cequence Security][cequence]{:height="96px"}
-<!-- ![Checkmarx][checkmarx]{:height="96px"} -->
-<!-- ![Salt Security][salt]{:height="96px"} -->
+![Traceable][traceable]{:height="96px"}
 
 ## 2023 Contributors
 
@@ -43,4 +42,5 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [paulo-silva]: https://www.owasp.org/index.php/User:PauloASilva
 [checkmarx]: assets/images/checkmarx-logo.png
 [salt]: assets/images/salt-logo.png
-[cequence]: assets/images/CequenceSecurity-Logo.png
+[cequence]: assets/images/sponsors/cequence-security.png
+[traceable]: assets/images/sponsors/traceable.png
