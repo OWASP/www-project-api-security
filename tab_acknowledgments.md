@@ -20,7 +20,9 @@ tags: acknowledgments
 ## 2023 Sponsors
 
 ![Cequence Security][cequence]{:height="96px"}
+
 ![Salt Security][salt]{:height="96px"}
+
 ![Traceable][traceable]{:height="96px"}
 
 ## 2023 Contributors
