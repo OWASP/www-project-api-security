@@ -15,6 +15,9 @@ tags: translations
 * French: [GitHub][13], [PDF][14], [ODT][15]
 
   [Fred][datakime], [Laurent Legaz]
+* Greek: [GitHub][19], [PDF][20], [ODT][21]
+
+  [Athanasios Emmanouilidis], [Apostolos Giannakidis]
 * Persian: [GiHub][16], [PDF][17], [ODT][18]
 
   [Alireza Mostame], [Mohammad Reza Ismaeli Taba], [Amirmahdi Nowbakht],
@@ -48,6 +51,10 @@ tags: translations
 [16]: https://github.com/OWASP/API-Security/tree/master/2019/fa/src
 [17]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.pdf
 [18]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.odt
+[19]: https://github.com/OWASP/API-Security/tree/master/2019/el-gr/src
+[20]: https://github.com/OWASP/API-Security/raw/master/2019/el-gr/dist/owasp-api-security-top-10.pdf
+[21]: https://github.com/OWASP/API-Security/raw/master/2019/el-gr/dist/owasp-api-security-top-10.odt
+
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
 [bruno-barbosa]: https://www.linkedin.com/in/bbarbosa85/
@@ -66,3 +73,5 @@ tags: translations
 [Alireza Mostame]: https://www.linkedin.com/in/alireza-mostame-29970b242
 [Mohammad Reza Ismaeli Taba]: https://www.linkedin.com/in/rezataba
 [Amirmahdi Nowbakht]: https://www.linkedin.com/in/amirmahdi-nowbakht-3b8865200
+[Athanasios Emmanouilidis]: https://www.linkedin.com/in/athanasiosem/
+[Apostolos Giannakidis]: https://www.linkedin.com/in/giannakidisapostolos/
