@@ -21,6 +21,8 @@ tags: acknowledgments
 
 ![Cequence Security][cequence]{:height="96px"}
 
+![Impart Security][impart]{:height="96px"}
+
 ![Salt Security][salt]{:height="96px"}
 
 ![Traceable][traceable]{:height="96px"}
@@ -47,3 +49,5 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [salt]: assets/images/sponsors/salt.png
 [cequence]: assets/images/sponsors/cequence-security.png
 [traceable]: assets/images/sponsors/traceable.png
+[impart]: assets/images/sponsors/impart.png
+
