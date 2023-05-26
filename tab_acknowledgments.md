@@ -19,6 +19,8 @@ tags: acknowledgments
 
 ## 2023 Sponsors
 
+![Checkmarx][checkmarx]{:height="96px"}
+
 ![Cequence Security][cequence]{:height="96px"}
 
 ![Impart Security][impart]{:height="96px"}
@@ -50,4 +52,4 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [cequence]: assets/images/sponsors/cequence-security.png
 [traceable]: assets/images/sponsors/traceable.png
 [impart]: assets/images/sponsors/impart.png
-
+[checkmarx]: assets/images/sponsors/checkmarx.png
