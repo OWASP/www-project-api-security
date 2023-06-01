@@ -19,9 +19,9 @@ tags: acknowledgments
 
 ## 2023 Sponsors
 
-![Checkmarx][checkmarx]{:height="96px"}
-
 ![Cequence Security][cequence]{:height="96px"}
+
+![Checkmarx][checkmarx]{:height="96px"}
 
 ![Impart Security][impart]{:height="96px"}
 
