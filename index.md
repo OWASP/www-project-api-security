@@ -10,8 +10,10 @@ type: documentation
 
 <div class="alert">
   <p style="text-align:center">
-    OWASP API Security Top 10 2023 RC is now available! Check out 
-    <a href="announcements/2023/02/api-top10-2023rc.html">how to contribute</a>.
+    Check out the new 
+    <a href="https://owasp.org/API-Security/editions/2023/en/0x00-header/">
+      OWASP API Security Top 10 2023
+    </a>! 
   </p>
 </div>
 
@@ -29,100 +31,99 @@ API Security focuses on strategies and solutions to understand and mitigate the
 unique vulnerabilities and security risks of Application Programming Interfaces
 (APIs).
 
-## API Security Top 10 2019
+## API Security Top 10 2023
 
-Here is a sneak peek of the 2019 version:
+Here is a sneak peek of the 2023 version:
 
-* **[API1:2019 Broken Object Level Authorization][API1:2019]**
+* **[API1:2023 - Broken Object Level Authorization][API1:2023]**
 
   APIs tend to expose endpoints that handle object identifiers, creating a wide
-  attack surface Level Access Control issue. Object level authorization checks
-  should be considered in every function that accesses a data source using an
-  input from the user. [Read more][API1:2019].
-* **[API2:2019 Broken User Authentication][API2:2019]**
+  attack surface of Object Level Access Control issues. Object level
+  authorization checks should be considered in every function that accesses a
+  data source using an ID from the user. [Continue reading][API1:2023].
+* **[API2:2023 - Broken Authentication][API2:2023]**
 
   Authentication mechanisms are often implemented incorrectly, allowing
   attackers to compromise authentication tokens or to exploit implementation
   flaws to assume other user's identities temporarily or permanently.
   Compromising a system's ability to identify the client/user, compromises API
-  security overall. [Read more][API2:2019].
-* **[API3:2019 Excessive Data Exposure][API3:2019]**
+  security overall. [Continue reading][API2:2023].
+* **[API3:2023 - Broken Object Property Level Authorization][API3:2023]**
 
-  Looking forward to generic implementations, developers tend to expose all
-  object properties without considering their individual sensitivity, relying on
-  clients to perform the data filtering before displaying it to the user. [Read
-  more][API3:2019].
-* **[API4:2019 Lack of Resources & Rate Limiting][API4:2019]**
+  This category combines [API3:2019 Excessive Data Exposure][API3:2019] and
+  [API6:2019 - Mass Assignment][API6:2019], focusing on the root cause: the lack
+  of or improper authorization validation at the object property level. This
+  leads to information exposure or manipulation by unauthorized parties.
+  [Continue reading][API3:2023].
+* **[API4:2023 - Unrestricted Resource Consumption][API4:2023]**
 
-  Quite often, APIs do not impose any restrictions on the size or number of
-  resources that can be requested by the client/user. Not only can this impact
-  the API server performance, leading to Denial of Service (DoS), but also
-  leaves the door open to authentication flaws such as brute force. [Read
-  more][API4:2019].
-* **[API5:2019 Broken Function Level Authorization][API5:2019]**
+  Satisfying API requests requires resources such as network bandwidth, CPU,
+  memory, and storage. Other resources such as emails/SMS/phone calls or
+  biometrics validation are made available by service providers via API
+  integrations, and paid for per request. Successful attacks can lead to Denial
+  of Service or an increase of operational costs. [Continue reading][API4:2023].
+* **[API5:2023 - Broken Function Level Authorization][API5:2023]**
 
   Complex access control policies with different hierarchies, groups, and roles,
   and an unclear separation between administrative and regular functions, tend
-  to lead to authorization flaws. By exploiting these issues, attackers gain
-  access to other users’ resources and/or administrative functions. [Read
-  more][API5:2019].
-* **[API6:2019 Mass Assignment][API6:2019]**
+  to lead to authorization flaws. By exploiting these issues, attackers can gain
+  access to other users’ resources and/or administrative functions. [Continue
+  reading][API5:2023].
+* **[API6:2023 - Unrestricted Access to Sensitive Business Flows][API6:2023]**
 
-  Binding client provided data (e.g., JSON) to data models, without proper
-  properties filtering based on an allowlist, usually leads to Mass Assignment.
-  Either guessing objects properties, exploring other API endpoints, reading the
-  documentation, or providing additional object properties in request payloads,
-  allows attackers to modify object properties they are not supposed to. [Read
-  more][API6:2019].
-* **[API7:2019 Security Misconfiguration][API7:2019]**
+  APIs vulnerable to this risk expose a business flow - such as buying a ticket,
+  or posting a comment - without compensating for how the functionality could
+  harm the business if used excessively in an automated manner. This doesn't
+  necessarily come from implementation bugs. [Continue reading][API6:2023].
+* **[API7:2023 - Server Side Request Forgery][API7:2023]**
 
-  Security misconfiguration is commonly a result of unsecure default
-  configurations, incomplete or ad-hoc configurations, open cloud storage,
-  misconfigured HTTP headers, unnecessary HTTP methods, permissive Cross-Origin
-  resource sharing (CORS), and verbose error messages containing sensitive
-  information. [Read more][API7:2019].
-* **[API8:2019 Injection][API8:2019]**
+  Server-Side Request Forgery (SSRF) flaws can occur when an API is fetching a
+  remote resource without validating the user-supplied URI. This enables an
+  attacker to coerce the application to send a crafted request to an unexpected
+  destination, even when protected by a firewall or a VPN. [Continue
+  reading][API7:2023].
+* **[API8:2023 - Security Misconfiguration][API8:2023]**
 
-  Injection flaws, such as SQL, NoSQL, Command Injection, etc., occur when
-  untrusted data is sent to an interpreter as part of a command or query. The
-  attacker's malicious data can trick the interpreter into executing unintended
-  commands or accessing data without proper authorization. [Read
-  more][API8:2019].
-* **[API9:2019 Improper Assets Management][API9:2019]**
+  APIs and the systems supporting them typically contain complex configurations,
+  meant to make the APIs more customizable. Software and DevOps engineers can
+  miss these configurations, or don't follow security best practices when it
+  comes to configuration, opening the door for different types of attacks.
+  [Continue reading][API8:2023].
+* **[API9:2023 - Improper Inventory Management][API9:2023]**
 
   APIs tend to expose more endpoints than traditional web applications, making
-  proper and updated documentation highly important. Proper hosts and deployed
-  API versions inventory also play an important role to mitigate issues such as
-  deprecated API versions and exposed debug endpoints. [Read more][API9:2019].
-* **[API10:2019 Insufficient Logging & Monitoring][API10:2019]**
+  proper and updated documentation highly important. A proper inventory of hosts
+  and deployed API versions also are important to mitigate issues such as
+  deprecated API versions and exposed debug endpoints. [Continue
+  reading][API9:2023].
+* **[API10:2023 - Unsafe Consumption of APIs][API10:2023]**
 
-  Insufficient logging and monitoring, coupled with missing or ineffective
-  integration with incident response, allows attackers to further attack
-  systems, maintain persistence, pivot to more systems to tamper with, extract,
-  or destroy data. Most breach studies demonstrate the time to detect a breach
-  is over 200 days, typically detected by external parties rather than internal
-  processes or monitoring. [Read more][API10:2019].
+  Developers tend to trust data received from third-party APIs more than user
+  input, and so tend to adopt weaker security standards. In order to compromise
+  APIs, attackers go after integrated third-party services instead of trying to
+  compromise the target API directly. [Continue reading][API10:2023].
 
 ## Licensing
 
 **The OWASP API Security Project documents are free to use!**
 
 The OWASP API Security Project is licensed under the [Creative Commons
-Attribution-ShareAlike 3.0 license][license], so you can copy, distribute and
+Attribution-ShareAlike 4.0 license][license], so you can copy, distribute and
 transmit the work, and you can adapt it, and use it commercially, but all
 provided that you attribute the work and if you alter, transform, or build upon
 this work, you may distribute the resulting work only under the same or similar
 license to this one.
 
-[license]: https://creativecommons.org/licenses/by-sa/3.0/
-[API1:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa1-broken-object-level-authorization.md
-[API2:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa2-broken-user-authentication.md
-[API3:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa3-excessive-data-exposure.md
-[API4:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa4-lack-of-resources-and-rate-limiting.md
-[API5:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa5-broken-function-level-authorization.md
-[API6:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa6-mass-assignment.md
-[API7:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa7-security-misconfiguration.md
-[API8:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa8-injection.md
-[API9:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xa9-improper-assets-management.md
-[API10:2019]: https://github.com/OWASP/API-Security/blob/master/2019/en/src/0xaa-insufficient-logging-monitoring.md
-
+[license]: https://creativecommons.org/licenses/by-sa/4.0/
+[API1:2023]: https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/
+[API2:2023]: https://owasp.org/API-Security/editions/2023/en/0xa2-broken-authentication/
+[API3:2023]: https://owasp.org/API-Security/editions/2023/en/0xa3-broken-object-property-level-authorization/
+[API3:2019]: https://owasp.org/API-Security/editions/2019/en/0xa3-excessive-data-exposure/
+[API6:2019]: https://owasp.org/API-Security/editions/2019/en/0xa6-mass-assignment/
+[API4:2023]: https://owasp.org/API-Security/editions/2023/en/0xa4-unrestricted-resource-consumption/
+[API5:2023]: https://owasp.org/API-Security/editions/2023/en/0xa5-broken-function-level-authorization/
+[API6:2023]: https://owasp.org/API-Security/editions/2023/en/0xa6-unrestricted-access-to-sensitive-business-flows/
+[API7:2023]: https://owasp.org/API-Security/editions/2023/en/0xa7-server-side-request-forgery/
+[API8:2023]: https://owasp.org/API-Security/editions/2023/en/0xa8-security-misconfiguration/
+[API9:2023]: https://owasp.org/API-Security/editions/2023/en/0xa9-improper-inventory-management/
+[API10:2023]: https://owasp.org/API-Security/editions/2023/en/0xaa-unsafe-consumption-of-apis/

@@ -8,52 +8,52 @@ tags: translations
 
 ## OWASP API Security Top 10 2019
 
-* Arabic: [GitHub][7], [PDF][8], [ODT][9]
+* [Arabic][7] (also available in [PDF][8], [ODT][9])
 
   [Malek Aldossary], [Sabri Hassanyah], [Mostafa Alaqsm], [Fahad Alduraibi],
   [Thamer Alshammeri], [Mohammed Alsuhaymi]
-* French: [GitHub][13], [PDF][14], [ODT][15]
+* [French][13] (also available in [PDF][14], [ODT][15])
 
   [Fred][datakime], [Laurent Legaz]
-* Greek: [GitHub][19], [PDF][20], [ODT][21]
+* [Greek][19] ([PDF][20], [ODT][21])
 
   [Athanasios Emmanouilidis], [Apostolos Giannakidis]
-* Persian: [GiHub][16], [PDF][17], [ODT][18]
+* [Persian][16] (also available in [PDF][17], [ODT][18])
 
   [Alireza Mostame], [Mohammad Reza Ismaeli Taba], [Amirmahdi Nowbakht],
   [RNPG](https://www.linkedin.com/company/raspina-net-pars/){:rel="nofollow"}
-* Portuguese (Brazil): [GitHub][1], [PDF][2], [ODT][3]
+* [Portuguese (Brazil)][1] (also available in [PDF][2], [ODT][3])
 
   [Raphael Hagi][raphael-hagi], [Eduardo Bellis][eduardo-bellis],
   [Bruno Barbosa][bruno-barbosa]
-* Portuguese (Portugal): [GitHub][4], [PDF][5], [ODT][6]
+* [Portuguese (Portugal)][4] (also available in [PDF][5], [ODT][6])
 
   [Paulo A. Silva][pauloasilva], [Rui Silva][rui-silva]
-* Russian: [GitHub][10], [PDF][11], [ODT][12]
+* [Russian][10] (also available in [PDF][11], [ODT][12])
 
   [Eugene Rojavski], [act1on3], keni0k
 
-[1]: https://github.com/OWASP/API-Security/tree/master/2019/pt-br/src
-[2]: https://github.com/OWASP/API-Security/raw/master/2019/pt-br/dist/owasp-api-security-top-10-pt-br.pdf
-[3]: https://github.com/OWASP/API-Security/raw/master/2019/pt-br/dist/owasp-api-security-top-10-pt-br.odt
-[4]: https://github.com/OWASP/API-Security/tree/master/2019/pt-pt/src
-[5]: https://github.com/OWASP/API-Security/raw/master/2019/pt-pt/dist/owasp-api-security-top-10.pdf
-[6]: https://github.com/OWASP/API-Security/raw/master/2019/pt-pt/dist/owasp-api-security-top-10.odt
-[7]: https://github.com/OWASP/API-Security/tree/master/2019/ar/src
-[8]: https://github.com/OWASP/API-Security/blob/master/2019/ar/dist/owasp-api-security-top-10-ar.pdf
-[9]: https://github.com/OWASP/API-Security/blob/master/2019/ar/dist/owasp-api-security-top-10-ar.odt
-[10]: https://github.com/OWASP/API-Security/tree/master/2019/ru/src
-[11]: https://github.com/OWASP/API-Security/raw/master/2019/ru/dist/owasp-api-security-top-10.pdf
-[12]: https://github.com/OWASP/API-Security/raw/master/2019/ru/dist/owasp-api-security-top-10.odt
-[13]: https://github.com/OWASP/API-Security/tree/master/2019/fr/src
-[14]: https://github.com/OWASP/API-Security/raw/master/2019/fr/dist/owasp-api-security-top-10.pdf
-[15]: https://github.com/OWASP/API-Security/raw/master/2019/fr/dist/owasp-api-security-top-10.odt
-[16]: https://github.com/OWASP/API-Security/tree/master/2019/fa/src
-[17]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.pdf
-[18]: https://github.com/OWASP/API-Security/raw/master/2019/fa/dist/owasp-api-security-top-10.odt
-[19]: https://github.com/OWASP/API-Security/tree/master/2019/el-gr/src
-[20]: https://github.com/OWASP/API-Security/raw/master/2019/el-gr/dist/owasp-api-security-top-10.pdf
-[21]: https://github.com/OWASP/API-Security/raw/master/2019/el-gr/dist/owasp-api-security-top-10.odt
+[1]: https://owasp.org/API-Security/editions/2019/pt-BR/0x00-header/
+[2]: https://owasp.org/API-Security/editions/2019/pt-BR/dist/owasp-api-security-top-10-pt-br.pdf
+[3]: https://owasp.org/API-Security/editions/2019/pt-BR/dist/owasp-api-security-top-10-pt-br.odt
+[4]: https://owasp.org/API-Security/editions/2019/pt-pt/0x00-header/
+[5]: https://owasp.org/API-Security/editions/2019/pt-pt/dist/owasp-api-security-top-10.pdf
+[6]: https://owasp.org/API-Security/editions/2019/pt-pt/dist/owasp-api-security-top-10.odt
+[7]: https://owasp.org/API-Security/editions/2019/ar/0x00-header/
+[8]: https://owasp.org/API-Security/editions/2019/ar/dist/owasp-api-security-top-10-ar.pdf
+[9]: https://owasp.org/API-Security/editions/2019/ar/dist/owasp-api-security-top-10-ar.odt
+[10]: https://owasp.org/API-Security/editions/2019/ru/0x00-header/
+[11]: https://owasp.org/API-Security/editions/2019/ru/dist/owasp-api-security-top-10.pdf
+[12]: https://owasp.org/API-Security/editions/2019/ru/dist/owasp-api-security-top-10.odt
+[13]: https://owasp.org/API-Security/editions/2019/fr/0x00-header/
+[14]: https://owasp.org/API-Security/editions/2019/fr/dist/owasp-api-security-top-10.pdf
+[15]: https://owasp.org/API-Security/editions/2019/fr/dist/owasp-api-security-top-10.odt
+[16]: https://owasp.org/API-Security/editions/2019/fa/0x00-header/
+[17]: https://owasp.org/API-Security/editions/2019/fa/dist/owasp-api-security-top-10.pdf
+[18]: https://owasp.org/API-Security/editions/2019/fa/dist/owasp-api-security-top-10.odt
+[19]: https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/
+[20]: https://owasp.org/API-Security/editions/2019/el-gr/dist/owasp-api-security-top-10.pdf
+[21]: https://owasp.org/API-Security/editions/2019/el-gr/dist/owasp-api-security-top-10.odt
 
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/

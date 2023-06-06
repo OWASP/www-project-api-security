@@ -7,12 +7,14 @@
 [![Breakers][breakers-logo]][breakers]
 [![Defenders][defenders-logo]][defenders]
 
-[![CC BY-SA 3.0][license-logo]{:width="175px"}][license]
+[![CC BY-SA 4.0][license-logo]{:width="175px"}][license]
 
 ### Downloads or Social Links
 
-* [API Security Top 10 2019 (PDF)][pdf]
+* [API Security Top 10 2023][top10:2023]
+* [API Security Top 10 2019][top10:2019] ([PDF][pdf])
 * [GraphQL Cheat Sheet][graphql-cs]
+* [GitHub Discussions]
 * [Mailing List][ml]
 
 ### Code Repository
@@ -27,11 +29,13 @@
 [breakers-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_breakers.svg?sanitize=true
 [defenders]: https://www.owasp.org/index.php/Defenders
 [defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
-[license]: http://creativecommons.org/licenses/by-sa/3.0/
+[license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-logo]: assets/images/by-sa.svg
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
+[top10:2023]: https://owasp.org/API-Security/editions/2023/en/0x00-header/
+[top10:2019]: https://owasp.org/API-Security/editions/2019/en/0x00-header/
 [pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
-[github]: https://github.com/OWASP/API-Security
-[ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
 [graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
-
+[GitHub Discussions]: https://github.com/OWASP/API-Security/discussions
+[ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
+[github]: https://github.com/OWASP/API-Security
