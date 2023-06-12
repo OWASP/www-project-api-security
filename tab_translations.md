@@ -15,6 +15,9 @@ tags: translations
 * [French][13] (also available in [PDF][14], [ODT][15])
 
   [Fred][datakime], [Laurent Legaz]
+* [German][22] (also available in [PDF][23], [ODT][24])
+
+  [Moritz Gruber][aware7-moritz]
 * [Greek][19] ([PDF][20], [ODT][21])
 
   [Athanasios Emmanouilidis], [Apostolos Giannakidis]
@@ -54,6 +57,9 @@ tags: translations
 [19]: https://owasp.org/API-Security/editions/2019/el-gr/0x00-header/
 [20]: https://owasp.org/API-Security/editions/2019/el-gr/dist/owasp-api-security-top-10.pdf
 [21]: https://owasp.org/API-Security/editions/2019/el-gr/dist/owasp-api-security-top-10.odt
+[22]: https://owasp.org/API-Security/editions/2019/de/0x00-header/
+[23]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.pdf
+[24]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.odt
 
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
@@ -75,3 +81,4 @@ tags: translations
 [Amirmahdi Nowbakht]: https://www.linkedin.com/in/amirmahdi-nowbakht-3b8865200
 [Athanasios Emmanouilidis]: https://www.linkedin.com/in/athanasiosem/
 [Apostolos Giannakidis]: https://www.linkedin.com/in/giannakidisapostolos/
+[aware7-moritz]: https://www.linkedin.com/in/moritz-gruber-734a43199/
