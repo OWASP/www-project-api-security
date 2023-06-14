@@ -34,7 +34,7 @@
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
 [top10:2023]: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 [top10:2019]: https://owasp.org/API-Security/editions/2019/en/0x00-header/
-[pdf]: https://github.com/OWASP/API-Security/raw/master/2019/en/dist/owasp-api-security-top-10.pdf
+[pdf]: https://owasp.org/API-Security/editions/2019/en/dist/owasp-api-security-top-10.pdf
 [graphql-cs]: https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html
 [GitHub Discussions]: https://github.com/OWASP/API-Security/discussions
 [ml]: https://groups.google.com/a/owasp.org/d/forum/api-security-project
