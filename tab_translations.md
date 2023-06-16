@@ -17,7 +17,7 @@ tags: translations
   [Fred][datakime], [Laurent Legaz]
 * [German][22] (also available in [PDF][23], [ODT][24])
 
-  [Moritz Gruber][aware7-moritz]
+  [Moritz Gruber][aware7-moritz], [Nick Lorenz], [Steffen Thamm], [Tim B.]
 * [Greek][19] ([PDF][20], [ODT][21])
 
   [Athanasios Emmanouilidis], [Apostolos Giannakidis]
@@ -82,3 +82,6 @@ tags: translations
 [Athanasios Emmanouilidis]: https://www.linkedin.com/in/athanasiosem/
 [Apostolos Giannakidis]: https://www.linkedin.com/in/giannakidisapostolos/
 [aware7-moritz]: https://www.linkedin.com/in/moritz-gruber-734a43199/
+[Steffen Thamm]: https://www.linkedin.com/in/steffen-thamm-a8341a27b/
+[Nick Lorenz]: https://www.linkedin.com/in/nick-lorenz-16b211222/
+[Tim B.]: https://www.linkedin.com/in/domai-tb/
