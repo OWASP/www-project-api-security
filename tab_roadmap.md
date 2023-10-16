@@ -17,4 +17,4 @@ tags: roadmap
 
 ![Roadmap][roadmap]
 
-[roadmap]: /assets/images/roadmap.png
+[roadmap]: assets/images/roadmap.png
