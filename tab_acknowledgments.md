@@ -23,6 +23,8 @@ tags: acknowledgments
 
 ![Checkmarx][checkmarx]{:height="96px"}
 
+![Equixly][equixly]{:height="96px"}
+
 ![Impart Security][impart]{:height="96px"}
 
 ![Salt Security][salt]{:height="96px"}
@@ -56,3 +58,5 @@ thomaskonrad, xycloops123, Raphael Hagi, Eduardo Bellis, Bruno Barbosa
 [traceable]: assets/images/sponsors/traceable.png
 [impart]: assets/images/sponsors/impart.png
 [checkmarx]: assets/images/sponsors/checkmarx.png
+[equixly]: assets/images/sponsors/equixly.png
+
