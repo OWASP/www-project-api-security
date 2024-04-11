@@ -1,11 +1,14 @@
 ### API Security Information
 
-[![Lab Project][lab-proj-logo]{:height="66px"}][inc-proj]
+<span class="fa-stack fa-2x" title="Production Project">
+  <i class="fas fa-circle fa-stack-2x" style="color:#800080"></i>
+  <i class="fas fa-city fa-stack-1x fa-inverse"></i>
+</span>
 ![Documentation Project][doc-proj-logo]
 
-[![Builders][builders-logo]][builders]
-[![Breakers][breakers-logo]][breakers]
-[![Defenders][defenders-logo]][defenders]
+<i class="fas fa-toolbox" style="color:#233e81;"></i> Builders
+<i class="fas fa-hammer" style="color:#233e81;"></i> Breakers
+<i class="fas fa-shield-alt" style="color:#233e81;"></i> Defenders
 
 [![CC BY-SA 4.0][license-logo]{:width="175px"}][license]
 
@@ -21,14 +24,6 @@
 
 * [GitHub][github]
 
-[inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
-[lab-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_level_labs.svg?sanitize=true
-[builders]: https://www.owasp.org/index.php/Builders
-[builders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_builders.svg?sanitize=true
-[breakers]: https://www.owasp.org/index.php/Breakers
-[breakers-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_breakers.svg?sanitize=true
-[defenders]: https://www.owasp.org/index.php/Defenders
-[defenders-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_defenders.svg?sanitize=true
 [license]: http://creativecommons.org/licenses/by-sa/4.0/
 [license-logo]: assets/images/by-sa.svg
 [doc-proj-logo]: https://raw.githubusercontent.com/OWASP/www--site-theme/master/assets/images/common/owasp_documentation_project.svg?sanitize=true
