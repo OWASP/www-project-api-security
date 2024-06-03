@@ -10,7 +10,7 @@ tags: translations
 
 * [French][25]
 
-[Aurélien Troncy], [Laurent Legaz]
+  [Aurélien Troncy], [Laurent Legaz]
 
 ## OWASP API Security Top 10 2019
 
