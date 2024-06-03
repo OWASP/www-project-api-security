@@ -6,6 +6,12 @@ order: 1
 tags: translations
 ---
 
+## OWASP API Security Top 10 2023
+
+* [French][25]
+
+[Aurélien Troncy], [Laurent Legaz]
+
 ## OWASP API Security Top 10 2019
 
 * [Arabic][7] (also available in [PDF][8], [ODT][9])
@@ -60,6 +66,7 @@ tags: translations
 [22]: https://owasp.org/API-Security/editions/2019/de/0x00-header/
 [23]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.pdf
 [24]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.odt
+[25]: https://owasp.org/API-Security/editions/2023/fr/0x00-header/
 
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
@@ -85,3 +92,4 @@ tags: translations
 [Steffen Thamm]: https://www.linkedin.com/in/steffen-thamm-a8341a27b/
 [Nick Lorenz]: https://www.linkedin.com/in/nick-lorenz-16b211222/
 [Tim B.]: https://www.linkedin.com/in/domai-tb/
+[Aurélien Troncy]: https://www.linkedin.com/in/aur%C3%A9lien-troncy-214075229/

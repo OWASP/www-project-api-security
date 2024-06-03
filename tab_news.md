@@ -6,6 +6,9 @@ order: 1
 tags: news
 ---
 
+* **Jun 3rd, 2024**
+
+  [OWASP API Security Top 10 2023 French translation][top10-2023-fr] release.
 * **Jun 5th, 2023**
 
   [OWASP API Security Top 10 2023][top10:2023] stable version was publicly
@@ -57,3 +60,4 @@ tags: news
 [graphql-cs-pr]: https://github.com/OWASP/CheatSheetSeries/pull/434
 [2023rc-announcement]: announcements/2023/02/api-top10-2023rc
 [top10:2023]: https://owasp.org/API-Security/editions/2023/en/0x00-header/
+[top10-2023-fr]: https://owasp.org/API-Security/editions/2023/fr/0x00-header/
