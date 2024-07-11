@@ -6,6 +6,10 @@ order: 1
 tags: news
 ---
 
+* **Jun 28th, 2024**
+
+  OWASP API Security Project - Past Present and Future @ OWASP Global AppSec
+  Lisbon 2024 ([YouTube][lisbon24])
 * **Jun 3rd, 2024**
 
   [OWASP API Security Top 10 2023 French translation][top10-2023-fr] release.
@@ -61,3 +65,4 @@ tags: news
 [2023rc-announcement]: announcements/2023/02/api-top10-2023rc
 [top10:2023]: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 [top10-2023-fr]: https://owasp.org/API-Security/editions/2023/fr/0x00-header/
+[lisbon24]: https://www.youtube.com/watch?v=hn4mgTu5izg
