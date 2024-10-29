@@ -8,9 +8,16 @@ tags: translations
 
 ## OWASP API Security Top 10 2023
 
+* [Bahasa (Indonesian)][27]
+
+  [Faiz Ahmed Zaidi] 
 * [French][25]
 
   [Aurélien Troncy], [Laurent Legaz]
+* [Persian][26]
+
+  [Alireza Mostame], [Maryam Javadi Hoseini], [Mohammad Reza Ismaeli Taba],
+  [RNPG](https://www.linkedin.com/company/raspina-net-pars/){:rel="nofollow"}
 
 ## OWASP API Security Top 10 2019
 
@@ -67,6 +74,8 @@ tags: translations
 [23]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.pdf
 [24]: https://owasp.org/API-Security/editions/2019/de/dist/owasp-api-security-top-10.odt
 [25]: https://owasp.org/API-Security/editions/2023/fr/0x00-header/
+[26]: https://owasp.org/API-Security/editions/2023/fa/0x00-header/
+[27]: https://owasp.org/API-Security/editions/2023/id/0x00-header/
 
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
@@ -93,3 +102,5 @@ tags: translations
 [Nick Lorenz]: https://www.linkedin.com/in/nick-lorenz-16b211222/
 [Tim B.]: https://www.linkedin.com/in/domai-tb/
 [Aurélien Troncy]: https://www.linkedin.com/in/aur%C3%A9lien-troncy-214075229/
+[Maryam Javadi Hoseini]: https://www.linkedin.com/in/maryam-javadi-353b1744/
+[Faiz Ahmed Zaidi]: https://github.com/faizzaidi
