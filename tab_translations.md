@@ -18,6 +18,9 @@ tags: translations
 
   [Alireza Mostame], [Maryam Javadi Hoseini], [Mohammad Reza Ismaeli Taba],
   [RNPG](https://www.linkedin.com/company/raspina-net-pars/){:rel="nofollow"}
+* [Português (Portugal)][28]
+
+  [Rui Silva][rui-silva]
 
 ## OWASP API Security Top 10 2019
 
@@ -76,6 +79,7 @@ tags: translations
 [25]: https://owasp.org/API-Security/editions/2023/fr/0x00-header/
 [26]: https://owasp.org/API-Security/editions/2023/fa/0x00-header/
 [27]: https://owasp.org/API-Security/editions/2023/id/0x00-header/
+[28]: https://owasp.org/API-Security/editions/2023/pt-pt/0x00-header/
 
 [raphael-hagi]: https://www.linkedin.com/in/raphael-hagi/
 [eduardo-bellis]: https://www.linkedin.com/in/eduardo-bellis-92482534/
