@@ -1,0 +1,40 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-api-top10
+    platform: slack
+    url: https://owasp.slack.com/archives/C0558AF1QQM
+    description: Discussion of the OWASP API Top 10 Risks
+leaders:
+  - name: Erez Yalon
+    email: erez.yalon@owasp.org
+    github: ErezYalon
+  - name: Inon Shkedy
+    email: inon.shkedy@owasp.org
+    github: inonshk
+  - name: Paulo Silva
+    email: paulo.silva@owasp.org
+    github: PauloASilva
+level: 3
+name: OWASP API Security Project
+pitch: Description for OWASP API Security Project
+repositories:
+  - name: www-project-api-security
+    url: https://github.com/OWASP/www-project-api-security
+    description: OWASP Foundation Web Repository
+  - name: API-Security
+    url: https://github.com/OWASP/API-Security
+    description: OWASP API Security Project
+tags:
+  - api
+  - security
+  - top10
+  - translations
+  - acknowledgments
+  - join
+  - roadmap
+  - news
+type: documentation
+website: https://owasp.org/www-project-api-security
