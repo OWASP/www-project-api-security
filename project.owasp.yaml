@@ -19,7 +19,10 @@ leaders:
     github: PauloASilva
 level: 3
 name: OWASP API Security Project
-pitch: Description for OWASP API Security Project
+pitch: >
+  The API Security project focuses on strategies and solutions to understand
+  and mitigate the unique vulnerabilities and security risks of Application
+  Programming Interfaces (APIs)
 repositories:
   - name: www-project-api-security
     url: https://github.com/OWASP/www-project-api-security
