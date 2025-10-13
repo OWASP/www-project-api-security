@@ -5,6 +5,10 @@ title: OWASP API Security Project
 tags: api security top10 translations acknowledgments join roadmap news
 level: 3
 type: documentation
+pitch: >
+  The API Security project focuses on strategies and solutions to understand
+  and mitigate the unique vulnerabilities and security risks of Application
+  Programming Interfaces (APIs)
 
 ---
 
